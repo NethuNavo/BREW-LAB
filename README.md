@@ -3,7 +3,7 @@
 ## Project Overview
 Brew Lab is a modern, responsive website for a premium coffee shop that showcases their products, atmosphere, and coffee culture. The design features elegant typography, smooth animations, and a warm color palette that reflects the coffee experience.
 
-🌐 Live Site:
+🌐 Live Site: https://nethunavo.github.io/BREW-LAB/
 
 ## Key Features
 
